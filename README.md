@@ -7,7 +7,7 @@
  - 🔭 I’m currently working on My Own SKill Development. 
 - 🌱 I’m currently learning More Advance Things OF Web Development.
 - 💬 Ask me about My web Development 
-- ⚡ Fun fact: IF You Want To Be Strong, Learn To Fight Alone. 
+- ⚡ IF You Want To Be Strong, Learn To Fight Alone. 
  --------------------------------------------------------------
  
 
