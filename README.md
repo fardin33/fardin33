@@ -23,7 +23,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fardin-hassan-ba170b2b7/target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin hassan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/fardinhasan.jihad.79/target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin hassan jihad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fardinhasan.jihad.79 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin hassan jihad" height="30" width="40" /></a>
 </p>
 ----------------------------------------------------------------
 
