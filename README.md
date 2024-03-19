@@ -1,4 +1,4 @@
-### Hi there 👋, Assalamualaikum, This Is Fardin Hassan Jihad
+ Assalamualaikum, This Is Fardin Hassan Jihad
 #### Font-End Web Developer
 ![Font-End Web Developer](www.facebook.com/fardinhasan.jihad.79mirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
