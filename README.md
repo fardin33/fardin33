@@ -13,7 +13,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 - 📫 How to reach me **fardincse01@gmail.com**
 
-- ⚡ Fun fact **I Am Funny.**
+- ⚡ IF You Want To Be Strong, Learn To Fight Alone...
 -----------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
