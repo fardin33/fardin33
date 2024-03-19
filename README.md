@@ -1,4 +1,4 @@
-# h1 ASSALAUMALAIKUM 👋
+# h1 ASSALAMUALAIKUM 👋
 
 <!--
 **fardin33/fardin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
