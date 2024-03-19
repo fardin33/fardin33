@@ -1,8 +1,6 @@
  Assalamualaikum, This Is Fardin Hassan Jihad
  -------------------------------------------------------------
- Font-End Web Developer
- -------------------------------------------------------------
- My Skill : HTML / CSS / BOOTSTARP / TAILWIND / FIGMA](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+ My Skill : HTML / CSS / BOOTSTARP / TAILWIND / FIGMA]
 <h1 align="center">Assalamualaikum, This Is Fardin Hassan Jihad</h1>
 <h3 align="center">Font-End Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
