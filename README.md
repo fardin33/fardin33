@@ -2,5 +2,5 @@
  --------------------------------------------------------
  Font-End Web Developer
  --------------------------------------------------------
-Skills: FIGMA / HTML / CSS
+ MY SKILL : HTML / CSS / BOOTSTARP / TAILWIND / FIGMA
 
