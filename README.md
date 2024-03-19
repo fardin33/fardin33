@@ -16,9 +16,8 @@
 -----------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fardin hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin hassan" height="30" width="40" /></a>
-<a href="https://fb.com/fardin hassan jihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin hassan jihad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fardin hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fardin hassan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fardin-hassan-ba170b2b7target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin hassan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fardinhasan.jihad.79 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin hassan jihad" height="30" width="40" /></a>
 </p>
 ----------------------------------------------------------------
 <h3 align="left">Languages and Tools:</h3>
