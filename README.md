@@ -15,7 +15,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 - ⚡ IF You Want To Be Strong, Learn To Fight Alone...
 -----------------------------------------------------------------
- #### My Skill : HTML / CSS / BOOTSTARP / TAILWIND  / JAVASCRIPT / RUBY / FIGMA / DART / FLUTTER]
+ #### My Skill : HTML / CSS / BOOTSTARP / TAILWIND  / JAVASCRIPT / PYTHON / RUBY /  / DART / ADROID / FLUTTER / FIGMA]
  <p align="left">
 </p>
 
