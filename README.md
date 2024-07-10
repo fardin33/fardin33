@@ -53,7 +53,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web And App Developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
