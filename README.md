@@ -7,9 +7,9 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 - 🔭 I’m Currently Working On **My Own Skill development**
 
-- 🌱 I’m Currently Learning **Advance More Things Of Web Development**
+- 🌱 I’m Currently Learning **Advance More Things Of Web And App Development**
 
-- 💬 Ask Me About **My Web Development**
+- 💬 Ask Me About **My Web And App Development**
 
 - 📫 How To Reach Me **fardincse01@gmail.com**
 
