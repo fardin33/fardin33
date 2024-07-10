@@ -13,7 +13,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 - 📫 How To Reach Me **fardincse01@gmail.com**
 - 📕 I was a student of **Firoza Bashar Ideal Institute (FBIC)**
-- 📚 I’m currently Studing on Daffodil Polytechnic Institute
+- 📚 I’m currently Studing on [Daffofil Polythecniq Institute](https://dpi.ac/)
 -  I was a student of Ostad
 - ⚡ IF You Want To Be Strong, Learn To Fight Alone...
 -----------------------------------------------------------------
