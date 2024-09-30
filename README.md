@@ -15,7 +15,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 - 💻 Also I learning From Udemy [Udemy](https://www.udemy.com/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=OzpaRYwFVr0&ranMID=47901&ranEAID=OzpaRYwFVr0&ranSiteID=OzpaRYwFVr0-MM0G1z9caBi.63RRAlW1sw)
 - ⚡ IF You Want To Be Strong, Learn To Fight Alone...
 -----------------------------------------------------------------
- #### My Skill : HTML / CSS / BOOTSTARP / TAILWIND  / JAVASCRIPT / DART / FLUTTER / ADROID / FIGMA]
+ #### My Skill :  FIGMA / HTML / CSS / BOOTSTARP / TAILWIND  / JAVASCRIPT / DART / FLUTTER / ANDROID]
  <p align="left">
 </p>
 
