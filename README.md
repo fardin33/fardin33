@@ -10,7 +10,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 - 💬 Ask Me About **My Web And App Development**
 - 📫 How To Reach Me **fardin.cse05@gmail.com**
 - 📕 I was a student of [Firoza Basher Ideal College](https://fbic.edu.bd/)
-- 📚 I’m currently Studing on [Daffofil Polythecniq Institute](https://dpi.ac/)
+- 📚 I’m currently Studing on [Daffodil polytechnic Institute](https://dpi.ac/)
 - 💻 My Learning Platform Is Ostad [Ostad](https://ostad.app/)
 - 💻 I learned Figma Ui/Ux Design From Udemy [Udemy](https://www.udemy.com/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=OzpaRYwFVr0&ranMID=47901&ranEAID=OzpaRYwFVr0&ranSiteID=OzpaRYwFVr0-MM0G1z9caBi.63RRAlW1sw)
 - 💻 I Learned Mobile App Development From [Interactive Cares](https://interactivecares.com/)
