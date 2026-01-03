@@ -13,6 +13,8 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 - 📚 I’m currently Studing on [Daffofil Polythecniq Institute](https://dpi.ac/)
 - 💻 Currently My Learning Platform Is Ostad [Ostad](https://ostad.app/)
 - 💻 Also I learning From Udemy [Udemy](https://www.udemy.com/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=OzpaRYwFVr0&ranMID=47901&ranEAID=OzpaRYwFVr0&ranSiteID=OzpaRYwFVr0-MM0G1z9caBi.63RRAlW1sw)
+- 💻 Learned Mobile App Development From [Interactive Cares](https://interactivecares.com/)
+- 💻 Learning MERN STACK From [Programming Hero](https://www.programming-hero.com/) 
 - ⚡ IF You Want To Be Strong, Learn To Fight Alone...
 -----------------------------------------------------------------
  #### My Skills :  FIGMA / HTML / CSS / BOOTSTARP / TAILWIND  / JAVASCRIPT / DART / FLUTTER ]
