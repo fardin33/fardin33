@@ -17,9 +17,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 - 💻 I'm currently Learning MERN STACK From [Programming Hero](https://www.programming-hero.com/) 
 - ⚡ IF You Want To Be Strong, Learn To Fight Alone...
 -----------------------------------------------------------------
- #### My Skills :  FIGMA / HTML / CSS / BOOTSTARP / TAILWIND  / JAVASCRIPT / DART / FLUTTER ]
- <p align="left">
-</p>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
