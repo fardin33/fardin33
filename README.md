@@ -5,7 +5,6 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
------------------------------------------------------------------
 - 🔭 I’m Currently Working On **My Own Skill development**
 - 🌱 I’m Currently Learning **Advance More Things Of Web And App Development**
 - 💬 Ask Me About **My Web And App Development**
@@ -56,7 +55,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardin33&" alt="fardin33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardin33&show_icons=true&locale=en" alt="fardin33" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardin33&show_icons=true&locale=en" alt="fardin33" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardin33&show_icons=true&locale=en&layout=compact" alt="fardin33" /></p>
 
