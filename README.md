@@ -49,9 +49,9 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 
 
-<h3 align="center">A passionate Web And App Developer from Bangladesh</h3>
+<h3 align="left">A passionate Web And App Developer from Bangladesh</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardin33&" alt="fardin33" /></p>
+<p><img align="leftr" src="https://github-readme-streak-stats.herokuapp.com/?user=fardin33&" alt="fardin33" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardin33&show_icons=true&locale=en" alt="fardin33" /></p> -->
 
