@@ -47,7 +47,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 -----------------------------------------------------------------
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin33&label=Profile%20views&color=0e75b6&style=flat" alt="fardin33" /> </p>
+
 
 <h3 align="center">A passionate Web And App Developer from Bangladesh</h3>
 
@@ -56,6 +56,8 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardin33&show_icons=true&locale=en" alt="fardin33" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardin33&show_icons=true&locale=en&layout=compact" alt="fardin33" /></p>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin33&label=Profile%20views&color=0e75b6&style=flat" alt="fardin33" /> </p>
 
 <p align="left">
 </p>
