@@ -20,7 +20,7 @@ src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgr
 
 ### 💻 Skills Overview 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚡ Languages and Tools:</h3>
 
 | Category                 | Technologies                                                                                                                                                                                                                          |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
